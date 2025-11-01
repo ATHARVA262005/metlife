@@ -49,26 +49,18 @@ docker build -t claim-fraud-api:latest .
 ### Step 1.4: Tag the image with your Docker Hub username
 
 ```powershell
-# Replace YOUR_USERNAME with your actual Docker Hub username
-docker tag claim-fraud-api:latest YOUR_USERNAME/claim-fraud-api:latest
-```
-
-**Example:**
-```powershell
-docker tag claim-fraud-api:latest atharva262005/claim-fraud-api:latest
+# YOUR username (already done!)
+docker tag claim-fraud-api:latest atharvaralegankar/claim-fraud-api:latest
 ```
 
 ### Step 1.5: Push to Docker Hub
 
 ```powershell
-# Replace YOUR_USERNAME
-docker push YOUR_USERNAME/claim-fraud-api:latest
+# YOUR image (already pushed!)
+docker push atharvaralegankar/claim-fraud-api:latest
 ```
 
-**Example:**
-```powershell
-docker push atharva262005/claim-fraud-api:latest
-```
+✅ **Already completed! Your image is live!**
 
 ⏱️ *Takes 2-3 minutes*
 
@@ -105,9 +97,9 @@ docker push atharva262005/claim-fraud-api:latest
 **Image source:**
 - **Image source**: Select **"Other registry"**
 - **Image type**: `Public`
-- **Image**: `YOUR_USERNAME/claim-fraud-api:latest`
+- **Image**: `atharvaralegankar/claim-fraud-api:latest`
   
-  Example: `atharva262005/claim-fraud-api:latest`
+  ⭐ **Use exactly this:** `atharvaralegankar/claim-fraud-api:latest`
 
 **Size:**
 - **OS type**: `Linux`
