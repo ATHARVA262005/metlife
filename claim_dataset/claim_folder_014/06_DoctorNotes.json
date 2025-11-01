@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-30672",
+  "consultation_date": "2025-02-21",
+  "doctor_name": "Dr. Rajeshri Narula",
+  "notes": "Patient with history of angina, underwent planned angioplasty...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

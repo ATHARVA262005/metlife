@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-9644",
+  "patient_id": "PID-55080",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 14790
+    },
+    {
+      "service": "Surgeon Fees (Dr. Krishna Bahri)",
+      "cost": 39440
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 24650
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 19720
+    }
+  ],
+  "total_calculated": 98600
+}

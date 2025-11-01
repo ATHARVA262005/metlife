@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-5761",
+  "patient_id": "PID-59377",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 35145
+    },
+    {
+      "service": "Surgeon Fees (Dr. Tanmayi Gopal)",
+      "cost": 93720
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 58575
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 46860
+    }
+  ],
+  "total_calculated": 234300
+}

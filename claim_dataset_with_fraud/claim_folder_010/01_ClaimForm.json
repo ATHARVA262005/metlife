@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-59227",
+  "part_a_insured_details": {
+    "policy_id": "POL-676142",
+    "insured_name": "Tamanna Sethi",
+    "patient_name": "Tamanna Sethi",
+    "patient_dob": "1976-03-18"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-01-06",
+    "discharge_date": "2025-01-10",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

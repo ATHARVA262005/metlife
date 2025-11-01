@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-39630",
+  "part_a_insured_details": {
+    "policy_id": "POL-412914",
+    "insured_name": "Ayush Tak",
+    "patient_name": "Ayush Tak",
+    "patient_dob": "1955-12-21"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-02-21",
+    "discharge_date": "2025-02-27",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

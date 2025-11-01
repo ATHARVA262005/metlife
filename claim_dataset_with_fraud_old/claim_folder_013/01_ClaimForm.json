@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-95342",
+  "part_a_insured_details": {
+    "policy_id": "POL-552491",
+    "insured_name": "Veer Talwar",
+    "patient_name": "Veer Talwar",
+    "patient_dob": "1981-10-18"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-09-09",
+    "discharge_date": "2025-09-17",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-2744",
+  "patient_id": "PID-28826",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 34170
+    },
+    {
+      "service": "Surgeon Fees (Dr. Avi Saraf)",
+      "cost": 91120
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 56950
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 45560
+    }
+  ],
+  "total_calculated": 227800
+}

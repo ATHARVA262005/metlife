@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-62188",
+  "patient_name": "Anita Bajwa",
+  "admission_date": "2025-01-30",
+  "discharge_date": "2025-02-02",
+  "final_diagnosis": "Acute Appendicitis",
+  "diagnosis_code": "K35.80",
+  "treatment_summary": "Patient presented with acute abdominal pain... Successful Laparoscopic Appendectomy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Daksha Raval"
+}

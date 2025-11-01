@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2024-4114",
+  "patient_id": "PID-53449",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 23415
+    },
+    {
+      "service": "Surgeon Fees (Dr. Eta Chahal)",
+      "cost": 62440
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 39025
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 31220
+    }
+  ],
+  "total_calculated": 156100
+}

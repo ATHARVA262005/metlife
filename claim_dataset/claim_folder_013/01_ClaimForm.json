@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-70885",
+  "part_a_insured_details": {
+    "policy_id": "POL-725443",
+    "insured_name": "Isha Chatterjee",
+    "patient_name": "Isha Chatterjee",
+    "patient_dob": "1974-11-14"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2024-12-08",
+    "discharge_date": "2024-12-17",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

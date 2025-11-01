@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-66277",
+  "patient_name": "Jhalak Kunda",
+  "admission_date": "2025-08-03",
+  "discharge_date": "2025-08-12",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Jalsa Sengupta"
+}

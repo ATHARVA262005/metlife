@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-97795",
+  "consultation_date": "2025-08-02",
+  "doctor_name": "Dr. Zilmil Ahuja",
+  "notes": "Patient with history of angina...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

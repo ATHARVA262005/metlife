@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-12995",
+  "part_a_insured_details": {
+    "policy_id": "POL-364905",
+    "insured_name": "Hemang Sankaran",
+    "patient_name": "Hemang Sankaran",
+    "patient_dob": "1967-10-17"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-02-20",
+    "discharge_date": "2025-02-27",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

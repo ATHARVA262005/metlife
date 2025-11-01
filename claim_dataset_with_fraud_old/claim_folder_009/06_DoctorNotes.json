@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-30153",
+  "consultation_date": "2025-06-06",
+  "doctor_name": "Dr. Harinakshi Raja",
+  "notes": "Patient with progressive vision loss...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

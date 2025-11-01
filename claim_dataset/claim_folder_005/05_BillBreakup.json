@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-2286",
+  "patient_id": "PID-23884",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 47775
+    },
+    {
+      "service": "Surgeon Fees (Dr. Thomas Patel)",
+      "cost": 127400
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 79625
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 63700
+    }
+  ],
+  "total_calculated": 318500
+}

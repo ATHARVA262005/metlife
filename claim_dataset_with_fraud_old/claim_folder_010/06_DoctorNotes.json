@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-59377",
+  "consultation_date": "2025-04-03",
+  "doctor_name": "Dr. Tanmayi Gopal",
+  "notes": "Patient with progressive vision loss...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-75183",
+  "part_a_insured_details": {
+    "policy_id": "POL-775572",
+    "insured_name": "Dalbir Hari",
+    "patient_name": "Dalbir Hari",
+    "patient_dob": "1964-01-07"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2024-12-25",
+    "discharge_date": "2024-12-28",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

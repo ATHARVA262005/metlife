@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-4972",
+  "patient_id": "PID-28395",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 56505
+    },
+    {
+      "service": "Surgeon Fees (Dr. Lakshmi Shan)",
+      "cost": 150680
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 94175
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 75340
+    }
+  ],
+  "total_calculated": 376700
+}

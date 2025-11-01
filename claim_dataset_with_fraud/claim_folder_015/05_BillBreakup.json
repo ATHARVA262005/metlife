@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3186",
+  "patient_id": "PID-55008",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 18255
+    },
+    {
+      "service": "Surgeon Fees (Dr. Lakshit Kapur)",
+      "cost": 48680
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 30425
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 24340
+    }
+  ],
+  "total_calculated": 121700
+}

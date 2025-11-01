@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-68612",
+  "patient_name": "Gaurika Boase",
+  "admission_date": "2025-02-28",
+  "discharge_date": "2025-03-03",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Upasna Kale"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-35268",
+  "part_a_insured_details": {
+    "policy_id": "POL-297414",
+    "insured_name": "Ishanvi Venkatesh",
+    "patient_name": "Ishanvi Venkatesh",
+    "patient_dob": "2000-06-10"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-10-11",
+    "discharge_date": "2025-10-18",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-71461",
+  "patient_name": "Aarna Ganesh",
+  "admission_date": "2025-10-12",
+  "discharge_date": "2025-10-15",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Gagan Dutta"
+}

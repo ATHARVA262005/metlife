@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-87584",
+  "patient_name": "Nidra Tandon",
+  "admission_date": "2025-05-28",
+  "discharge_date": "2025-05-31",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Megha Contractor"
+}

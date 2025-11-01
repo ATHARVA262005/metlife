@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-65955",
+  "consultation_date": "2024-11-20",
+  "doctor_name": "Dr. Odika Chatterjee",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

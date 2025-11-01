@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-46286",
+  "part_a_insured_details": {
+    "policy_id": "POL-656665",
+    "insured_name": "Charvi Tara",
+    "patient_name": "Charvi Tara",
+    "patient_dob": "1952-01-27"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-04-18",
+    "discharge_date": "2025-04-22",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

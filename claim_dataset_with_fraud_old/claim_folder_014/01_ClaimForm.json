@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-97021",
+  "part_a_insured_details": {
+    "policy_id": "POL-935405",
+    "insured_name": "Ekani Chacko",
+    "patient_name": "Ekani Chacko",
+    "patient_dob": "1970-08-20"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2024-11-20",
+    "discharge_date": "2024-11-25",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

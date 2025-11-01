@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-9443",
+  "patient_id": "PID-99883",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 21315
+    },
+    {
+      "service": "Surgeon Fees (Dr. Nidhi Andra)",
+      "cost": 56840
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 35525
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 28420
+    }
+  ],
+  "total_calculated": 142100
+}

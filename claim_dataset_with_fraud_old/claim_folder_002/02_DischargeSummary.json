@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-53449",
+  "patient_name": "Reva Chaudhry",
+  "admission_date": "2024-12-17",
+  "discharge_date": "2024-12-20",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Eta Chahal"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-33733",
+  "part_a_insured_details": {
+    "policy_id": "POL-821936",
+    "insured_name": "Warinder Nadig",
+    "patient_name": "Warinder Nadig",
+    "patient_dob": "1956-11-11"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-07-18",
+    "discharge_date": "2025-07-21",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

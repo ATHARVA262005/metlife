@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-84407",
+  "consultation_date": "2025-01-12",
+  "doctor_name": "Dr. Arunima Apte",
+  "notes": "Patient with history of angina...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

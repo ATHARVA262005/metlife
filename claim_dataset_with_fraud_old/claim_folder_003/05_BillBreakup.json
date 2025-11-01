@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-7680",
+  "patient_id": "PID-26630",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 28155
+    },
+    {
+      "service": "Surgeon Fees (Dr. Jai Palla)",
+      "cost": 75080
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 46925
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 37540
+    }
+  ],
+  "total_calculated": 187700
+}

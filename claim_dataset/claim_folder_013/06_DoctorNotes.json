@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-23435",
+  "consultation_date": "2024-12-08",
+  "doctor_name": "Dr. Baljiwan Kurian",
+  "notes": "Patient admitted with high fever, cough, and chest X-ray confirmed pneumonia...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

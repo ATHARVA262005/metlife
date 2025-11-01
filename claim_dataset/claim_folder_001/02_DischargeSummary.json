@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-88221",
+  "patient_name": "Tara Anand",
+  "admission_date": "2025-06-15",
+  "discharge_date": "2025-06-24",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Yash Raval"
+}

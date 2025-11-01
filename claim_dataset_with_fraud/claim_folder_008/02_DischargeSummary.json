@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-30785",
+  "patient_name": "Chaitaly Garde",
+  "admission_date": "2025-10-30",
+  "discharge_date": "2025-11-02",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Caleb Nagi"
+}

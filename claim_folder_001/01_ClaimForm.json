@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-59971",
+  "part_a_insured_details": {
+    "policy_id": "POL-812794",
+    "insured_name": "Vedika Tara",
+    "patient_name": "Vedika Tara",
+    "patient_dob": "1982-02-22"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-04-11",
+    "discharge_date": "2025-04-18",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

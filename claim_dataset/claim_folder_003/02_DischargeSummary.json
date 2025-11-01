@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-14980",
+  "patient_name": "Atharv Ramanathan",
+  "admission_date": "2025-05-16",
+  "discharge_date": "2025-05-24",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough, and chest X-ray confirmed pneumonia... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Bhavya Panchal"
+}

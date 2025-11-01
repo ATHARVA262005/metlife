@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-8182",
+  "patient_id": "PID-66277",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 66600
+    },
+    {
+      "service": "Surgeon Fees (Dr. Jalsa Sengupta)",
+      "cost": 177600
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 111000
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 88800
+    }
+  ],
+  "total_calculated": 444000
+}

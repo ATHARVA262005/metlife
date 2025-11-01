@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3008",
+  "patient_id": "PID-88221",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 69345
+    },
+    {
+      "service": "Surgeon Fees (Dr. Yash Raval)",
+      "cost": 184920
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 115575
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 92460
+    }
+  ],
+  "total_calculated": 462300
+}

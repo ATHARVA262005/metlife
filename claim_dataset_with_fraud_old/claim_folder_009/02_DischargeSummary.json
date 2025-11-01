@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-30153",
+  "patient_name": "Ladli Naidu",
+  "admission_date": "2025-06-06",
+  "discharge_date": "2025-06-10",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Harinakshi Raja"
+}

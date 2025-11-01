@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2024-6752",
+  "patient_id": "PID-65955",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 63885
+    },
+    {
+      "service": "Surgeon Fees (Dr. Odika Chatterjee)",
+      "cost": 170360
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 106475
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 85180
+    }
+  ],
+  "total_calculated": 425900
+}

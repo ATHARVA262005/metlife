@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-55008",
+  "consultation_date": "2025-01-12",
+  "doctor_name": "Dr. Lakshit Kapur",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

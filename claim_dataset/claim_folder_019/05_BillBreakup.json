@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-8842",
+  "patient_id": "PID-18358",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 64410
+    },
+    {
+      "service": "Surgeon Fees (Dr. Warda Bhargava)",
+      "cost": 171760
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 107350
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 85880
+    }
+  ],
+  "total_calculated": 429400
+}

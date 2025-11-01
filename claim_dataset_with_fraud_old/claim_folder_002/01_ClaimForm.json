@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-68164",
+  "part_a_insured_details": {
+    "policy_id": "POL-244796",
+    "insured_name": "Reva Chaudhry",
+    "patient_name": "Reva Chaudhry",
+    "patient_dob": "1961-06-15"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2024-12-17",
+    "discharge_date": "2024-12-20",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

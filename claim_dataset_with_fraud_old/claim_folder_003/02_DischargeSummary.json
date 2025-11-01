@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-26630",
+  "patient_name": "Gaurav Jani",
+  "admission_date": "2025-10-23",
+  "discharge_date": "2025-10-30",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Jai Palla"
+}

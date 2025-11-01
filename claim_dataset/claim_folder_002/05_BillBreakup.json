@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-7556",
+  "patient_id": "PID-21546",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 17535
+    },
+    {
+      "service": "Surgeon Fees (Dr. Amrita Jain)",
+      "cost": 46760
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 29225
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 23380
+    }
+  ],
+  "total_calculated": 116900
+}

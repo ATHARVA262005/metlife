@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-5974",
+  "patient_id": "PID-11683",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 67785
+    },
+    {
+      "service": "Surgeon Fees (Dr. Aryan Mahal)",
+      "cost": 180760
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 112975
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 90380
+    }
+  ],
+  "total_calculated": 451900
+}

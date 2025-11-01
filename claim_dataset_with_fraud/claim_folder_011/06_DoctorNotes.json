@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-71461",
+  "consultation_date": "2025-10-12",
+  "doctor_name": "Dr. Gagan Dutta",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

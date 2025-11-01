@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-2051",
+  "patient_id": "PID-44649",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 49560
+    },
+    {
+      "service": "Surgeon Fees (Dr. Ekaraj Arya)",
+      "cost": 132160
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 82600
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 66080
+    }
+  ],
+  "total_calculated": 330400
+}

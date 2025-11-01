@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-53760",
+  "part_a_insured_details": {
+    "policy_id": "POL-297669",
+    "insured_name": "Indira Dugar",
+    "patient_name": "Indira Dugar",
+    "patient_dob": "2002-12-12"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-08-27",
+    "discharge_date": "2025-09-06",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

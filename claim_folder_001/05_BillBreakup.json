@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-5793",
+  "patient_id": "PID-67038",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 39120
+    },
+    {
+      "service": "Surgeon Fees (Dr. Aryan Ramaswamy)",
+      "cost": 104320
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 65200
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 52160
+    }
+  ],
+  "total_calculated": 260800
+}

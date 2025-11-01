@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-8222",
+  "patient_id": "PID-89876",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 69435
+    },
+    {
+      "service": "Surgeon Fees (Dr. Bachittar Chadha)",
+      "cost": 185160
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 115725
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 92580
+    }
+  ],
+  "total_calculated": 462900
+}

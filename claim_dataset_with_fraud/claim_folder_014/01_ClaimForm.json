@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-20090",
+  "part_a_insured_details": {
+    "policy_id": "POL-997923",
+    "insured_name": "Anita Bajwa",
+    "patient_name": "Anita Bajwa",
+    "patient_dob": "1972-08-20"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-01-30",
+    "discharge_date": "2025-02-02",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-94625",
+  "patient_name": "Yashica Chokshi",
+  "admission_date": "2025-02-24",
+  "discharge_date": "2025-03-02",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Eshana Parsa"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-96358",
+  "part_a_insured_details": {
+    "policy_id": "POL-221185",
+    "insured_name": "Aarna Ganesh",
+    "patient_name": "Aarna Ganesh",
+    "patient_dob": "1963-05-03"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-10-12",
+    "discharge_date": "2025-10-15",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

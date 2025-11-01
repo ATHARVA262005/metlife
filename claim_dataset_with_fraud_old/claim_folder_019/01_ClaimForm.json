@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-16215",
+  "part_a_insured_details": {
+    "policy_id": "POL-777548",
+    "insured_name": "Vasana Divan",
+    "patient_name": "Vasana Divan",
+    "patient_dob": "1998-04-27"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-05-23",
+    "discharge_date": "2025-05-30",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

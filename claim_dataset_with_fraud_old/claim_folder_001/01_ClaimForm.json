@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-47883",
+  "part_a_insured_details": {
+    "policy_id": "POL-921664",
+    "insured_name": "Owen Rao",
+    "patient_name": "Owen Rao",
+    "patient_dob": "1945-07-26"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-08-02",
+    "discharge_date": "2025-08-08",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

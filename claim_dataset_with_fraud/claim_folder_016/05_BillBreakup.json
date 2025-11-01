@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-6845",
+  "patient_id": "PID-87584",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 45225
+    },
+    {
+      "service": "Surgeon Fees (Dr. Megha Contractor)",
+      "cost": 120600
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 75375
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 60300
+    }
+  ],
+  "total_calculated": 301500
+}

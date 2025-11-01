@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-65545",
+  "consultation_date": "2025-02-07",
+  "doctor_name": "Dr. Janaki Oommen",
+  "notes": "Patient with history of angina...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

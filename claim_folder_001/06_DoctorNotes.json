@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-67038",
+  "consultation_date": "2025-04-11",
+  "doctor_name": "Dr. Aryan Ramaswamy",
+  "notes": "Patient presented with acute abdominal pain...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

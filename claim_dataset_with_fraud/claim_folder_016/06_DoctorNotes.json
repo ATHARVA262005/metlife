@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-87584",
+  "consultation_date": "2025-05-28",
+  "doctor_name": "Dr. Megha Contractor",
+  "notes": "Patient with history of angina...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

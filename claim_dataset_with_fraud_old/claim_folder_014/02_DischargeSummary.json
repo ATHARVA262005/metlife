@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-65955",
+  "patient_name": "Ekani Chacko",
+  "admission_date": "2024-11-20",
+  "discharge_date": "2024-11-25",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Odika Chatterjee"
+}

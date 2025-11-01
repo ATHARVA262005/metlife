@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-61721",
+  "part_a_insured_details": {
+    "policy_id": "POL-573580",
+    "insured_name": "Wakeeta Loke",
+    "patient_name": "Wakeeta Loke",
+    "patient_dob": "1995-06-06"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-02-06",
+    "discharge_date": "2025-02-12",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

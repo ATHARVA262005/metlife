@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-78787",
+  "patient_name": "Jack Anand",
+  "admission_date": "2025-06-13",
+  "discharge_date": "2025-06-18",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Bhavani Muni"
+}

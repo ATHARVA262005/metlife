@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-65545",
+  "patient_name": "Zilmil Trivedi",
+  "admission_date": "2025-02-07",
+  "discharge_date": "2025-02-13",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Janaki Oommen"
+}

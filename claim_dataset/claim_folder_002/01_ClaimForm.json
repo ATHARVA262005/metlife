@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-25372",
+  "part_a_insured_details": {
+    "policy_id": "POL-116290",
+    "insured_name": "Chavvi Chacko",
+    "patient_name": "Chavvi Chacko",
+    "patient_dob": "1957-01-02"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-07-28",
+    "discharge_date": "2025-08-05",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

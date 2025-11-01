@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-9959",
+  "patient_id": "PID-71461",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 60105
+    },
+    {
+      "service": "Surgeon Fees (Dr. Gagan Dutta)",
+      "cost": 160280
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 100175
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 80140
+    }
+  ],
+  "total_calculated": 400700
+}

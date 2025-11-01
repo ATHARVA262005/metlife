@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-1612",
+  "patient_id": "PID-21850",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 26400
+    },
+    {
+      "service": "Surgeon Fees (Dr. Nitara Parsa)",
+      "cost": 70400
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 44000
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 35200
+    }
+  ],
+  "total_calculated": 176000
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-27785",
+  "consultation_date": "2025-04-10",
+  "doctor_name": "Dr. Nidhi Prabhakar",
+  "notes": "Patient sustained trauma, X-ray confirmed displaced tibial fracture...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

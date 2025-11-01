@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-96932",
+  "consultation_date": "2024-12-22",
+  "doctor_name": "Dr. Shaurya Swaminathan",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

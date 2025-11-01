@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-34522",
+  "part_a_insured_details": {
+    "policy_id": "POL-823631",
+    "insured_name": "Shravya Ratta",
+    "patient_name": "Shravya Ratta",
+    "patient_dob": "1991-12-16"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-10-03",
+    "discharge_date": "2025-10-07",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

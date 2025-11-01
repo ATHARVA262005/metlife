@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-77519",
+  "patient_name": "Rehaan Ramaswamy",
+  "admission_date": "2025-04-01",
+  "discharge_date": "2025-04-10",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Jacob Lad"
+}

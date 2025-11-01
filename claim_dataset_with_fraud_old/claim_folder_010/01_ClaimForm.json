@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-76113",
+  "part_a_insured_details": {
+    "policy_id": "POL-187410",
+    "insured_name": "Indira Date",
+    "patient_name": "Indira Date",
+    "patient_dob": "2001-11-22"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Fortis Healthcare",
+    "admission_date": "2025-04-03",
+    "discharge_date": "2025-04-11",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

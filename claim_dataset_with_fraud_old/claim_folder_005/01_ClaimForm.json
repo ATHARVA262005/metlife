@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-93454",
+  "part_a_insured_details": {
+    "policy_id": "POL-657178",
+    "insured_name": "Zilmil Trivedi",
+    "patient_name": "Zilmil Trivedi",
+    "patient_dob": "1954-03-16"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Fortis Healthcare",
+    "admission_date": "2025-02-07",
+    "discharge_date": "2025-02-13",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

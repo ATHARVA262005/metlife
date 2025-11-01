@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-13473",
+  "consultation_date": "2025-10-25",
+  "doctor_name": "Dr. William Pandya",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

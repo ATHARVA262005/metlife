@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-55080",
+  "patient_name": "Akshay Dugar",
+  "admission_date": "2025-09-10",
+  "discharge_date": "2025-09-15",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Krishna Bahri"
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-41273",
+  "part_a_insured_details": {
+    "policy_id": "POL-712014",
+    "insured_name": "Jhalak Kunda",
+    "patient_name": "Jhalak Kunda",
+    "patient_dob": "1990-04-18"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-08-03",
+    "discharge_date": "2025-08-10",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

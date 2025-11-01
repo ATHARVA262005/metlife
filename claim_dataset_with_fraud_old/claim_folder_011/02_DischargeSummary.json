@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-96932",
+  "patient_name": "Anthony Palla",
+  "admission_date": "2024-12-22",
+  "discharge_date": "2024-12-31",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Shaurya Swaminathan"
+}

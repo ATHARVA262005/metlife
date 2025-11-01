@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-23106",
+  "consultation_date": "2025-07-18",
+  "doctor_name": "Dr. Madhavi Ramanathan",
+  "notes": "Patient presented with acute abdominal pain...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

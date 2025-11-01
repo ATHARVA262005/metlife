@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-90504",
+  "patient_name": "Geetika Walla",
+  "admission_date": "2025-08-11",
+  "discharge_date": "2025-08-21",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Ekiya Raja"
+}

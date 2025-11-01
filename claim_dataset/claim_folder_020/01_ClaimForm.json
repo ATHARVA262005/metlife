@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-54196",
+  "part_a_insured_details": {
+    "policy_id": "POL-654282",
+    "insured_name": "Aarav Warrior",
+    "patient_name": "Aarav Warrior",
+    "patient_dob": "2001-01-31"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Fortis Healthcare",
+    "admission_date": "2025-04-10",
+    "discharge_date": "2025-04-16",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

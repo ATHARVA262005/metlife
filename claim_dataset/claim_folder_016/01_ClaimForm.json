@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-72045",
+  "part_a_insured_details": {
+    "policy_id": "POL-659247",
+    "insured_name": "Zayan Basak",
+    "patient_name": "Zayan Basak",
+    "patient_dob": "1965-07-14"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-07-25",
+    "discharge_date": "2025-07-30",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

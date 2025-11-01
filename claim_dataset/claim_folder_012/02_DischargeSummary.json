@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-58367",
+  "patient_name": "Kamala De",
+  "admission_date": "2025-08-17",
+  "discharge_date": "2025-08-21",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough, and chest X-ray confirmed pneumonia... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Omaja Memon"
+}

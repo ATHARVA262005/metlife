@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-7706",
+  "patient_id": "PID-53352",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 26250
+    },
+    {
+      "service": "Surgeon Fees (Dr. Isha Pant)",
+      "cost": 70000
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 43750
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 35000
+    }
+  ],
+  "total_calculated": 175000
+}

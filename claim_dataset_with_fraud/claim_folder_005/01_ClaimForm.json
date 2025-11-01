@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-62335",
+  "part_a_insured_details": {
+    "policy_id": "POL-988025",
+    "insured_name": "Falguni Keer",
+    "patient_name": "Falguni Keer",
+    "patient_dob": "1989-01-18"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-01-11",
+    "discharge_date": "2025-01-17",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

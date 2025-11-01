@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-71643",
+  "patient_name": "Falguni Keer",
+  "admission_date": "2025-01-11",
+  "discharge_date": "2025-01-19",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Sai Mann"
+}

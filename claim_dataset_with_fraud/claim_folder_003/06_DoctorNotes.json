@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-28826",
+  "consultation_date": "2025-01-09",
+  "doctor_name": "Dr. Avi Saraf",
+  "notes": "Patient presented with acute abdominal pain...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-32201",
+  "patient_name": "Vasana Divan",
+  "admission_date": "2025-05-23",
+  "discharge_date": "2025-05-30",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Harish Suresh"
+}

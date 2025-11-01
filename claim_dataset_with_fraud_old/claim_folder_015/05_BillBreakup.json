@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-4096",
+  "patient_id": "PID-68612",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 33555
+    },
+    {
+      "service": "Surgeon Fees (Dr. Upasna Kale)",
+      "cost": 89480
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 55925
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 44740
+    }
+  ],
+  "total_calculated": 223700
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-21214",
+  "part_a_insured_details": {
+    "policy_id": "POL-862780",
+    "insured_name": "Tara Anand",
+    "patient_name": "Tara Anand",
+    "patient_dob": "1967-11-16"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-06-15",
+    "discharge_date": "2025-06-24",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

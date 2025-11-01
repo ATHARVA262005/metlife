@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-79087",
+  "part_a_insured_details": {
+    "policy_id": "POL-750449",
+    "insured_name": "Akshay Dugar",
+    "patient_name": "Akshay Dugar",
+    "patient_dob": "1985-09-30"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-09-10",
+    "discharge_date": "2025-09-15",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

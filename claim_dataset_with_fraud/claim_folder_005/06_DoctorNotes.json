@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-71643",
+  "consultation_date": "2025-01-11",
+  "doctor_name": "Dr. Sai Mann",
+  "notes": "Patient with progressive vision loss...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

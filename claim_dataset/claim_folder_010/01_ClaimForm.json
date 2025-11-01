@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-70028",
+  "part_a_insured_details": {
+    "policy_id": "POL-800403",
+    "insured_name": "Dominic Andra",
+    "patient_name": "Dominic Andra",
+    "patient_dob": "1964-10-14"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-06-10",
+    "discharge_date": "2025-06-18",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

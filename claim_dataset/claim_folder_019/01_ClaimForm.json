@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-84330",
+  "part_a_insured_details": {
+    "policy_id": "POL-100997",
+    "insured_name": "Samesh Gill",
+    "patient_name": "Samesh Gill",
+    "patient_dob": "1969-04-30"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-10-22",
+    "discharge_date": "2025-11-01",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

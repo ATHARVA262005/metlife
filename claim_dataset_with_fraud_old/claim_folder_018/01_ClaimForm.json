@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-41261",
+  "part_a_insured_details": {
+    "policy_id": "POL-499541",
+    "insured_name": "Indali Pradhan",
+    "patient_name": "Indali Pradhan",
+    "patient_dob": "1993-06-11"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2024-11-26",
+    "discharge_date": "2024-12-02",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

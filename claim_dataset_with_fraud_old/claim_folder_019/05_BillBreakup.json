@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-8524",
+  "patient_id": "PID-32201",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 71205
+    },
+    {
+      "service": "Surgeon Fees (Dr. Harish Suresh)",
+      "cost": 189880
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 118675
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 94940
+    }
+  ],
+  "total_calculated": 474700
+}

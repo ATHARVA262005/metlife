@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-78787",
+  "consultation_date": "2025-06-13",
+  "doctor_name": "Dr. Bhavani Muni",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

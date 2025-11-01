@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-65757",
+  "part_a_insured_details": {
+    "policy_id": "POL-829765",
+    "insured_name": "Devansh Kata",
+    "patient_name": "Devansh Kata",
+    "patient_dob": "1977-02-15"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-01-12",
+    "discharge_date": "2025-01-15",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

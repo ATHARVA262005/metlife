@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-89876",
+  "patient_name": "Veer Talwar",
+  "admission_date": "2025-09-09",
+  "discharge_date": "2025-09-17",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Bachittar Chadha"
+}

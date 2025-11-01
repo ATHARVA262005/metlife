@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-86022",
+  "part_a_insured_details": {
+    "policy_id": "POL-310533",
+    "insured_name": "Lopa Suresh",
+    "patient_name": "Lopa Suresh",
+    "patient_dob": "1957-08-29"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-09-15",
+    "discharge_date": "2025-09-18",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

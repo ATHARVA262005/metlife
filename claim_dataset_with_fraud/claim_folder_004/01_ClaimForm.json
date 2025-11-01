@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-29423",
+  "part_a_insured_details": {
+    "policy_id": "POL-493738",
+    "insured_name": "Tristan Solanki",
+    "patient_name": "Tristan Solanki",
+    "patient_dob": "2006-07-28"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-10-25",
+    "discharge_date": "2025-10-30",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

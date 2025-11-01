@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-7385",
+  "patient_id": "PID-71643",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 50505
+    },
+    {
+      "service": "Surgeon Fees (Dr. Sai Mann)",
+      "cost": 134680
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 84175
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 67340
+    }
+  ],
+  "total_calculated": 336700
+}

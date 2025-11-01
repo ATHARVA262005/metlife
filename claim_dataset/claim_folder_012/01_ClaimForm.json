@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-64025",
+  "part_a_insured_details": {
+    "policy_id": "POL-263371",
+    "insured_name": "Kamala De",
+    "patient_name": "Kamala De",
+    "patient_dob": "1965-12-25"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-08-17",
+    "discharge_date": "2025-08-21",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

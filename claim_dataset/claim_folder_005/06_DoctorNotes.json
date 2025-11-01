@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-23884",
+  "consultation_date": "2025-09-09",
+  "doctor_name": "Dr. Thomas Patel",
+  "notes": "Patient with progressive vision loss, scheduled for cataract surgery...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-4474",
+  "patient_id": "PID-31749",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 31305
+    },
+    {
+      "service": "Surgeon Fees (Dr. Pahal Chakraborty)",
+      "cost": 83480
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 52175
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 41740
+    }
+  ],
+  "total_calculated": 208700
+}

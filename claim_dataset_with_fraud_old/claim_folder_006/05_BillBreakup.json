@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-2020",
+  "patient_id": "PID-84178",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 74670
+    },
+    {
+      "service": "Surgeon Fees (Dr. Qadim Murthy)",
+      "cost": 199120
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 124450
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 99560
+    }
+  ],
+  "total_calculated": 497800
+}

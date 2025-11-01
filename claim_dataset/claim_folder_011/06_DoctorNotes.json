@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-53352",
+  "consultation_date": "2025-03-02",
+  "doctor_name": "Dr. Isha Pant",
+  "notes": "Patient with progressive vision loss, scheduled for cataract surgery...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

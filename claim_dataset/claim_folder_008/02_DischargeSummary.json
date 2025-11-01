@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-21850",
+  "patient_name": "Yatin Grewal",
+  "admission_date": "2025-04-08",
+  "discharge_date": "2025-04-15",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Nitara Parsa"
+}

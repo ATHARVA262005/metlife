@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-6513",
+  "patient_id": "PID-65545",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 70260
+    },
+    {
+      "service": "Surgeon Fees (Dr. Janaki Oommen)",
+      "cost": 187360
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 117100
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 93680
+    }
+  ],
+  "total_calculated": 468400
+}

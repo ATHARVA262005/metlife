@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-80461",
+  "part_a_insured_details": {
+    "policy_id": "POL-154762",
+    "insured_name": "Yashica Chokshi",
+    "patient_name": "Yashica Chokshi",
+    "patient_dob": "1954-07-25"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-02-24",
+    "discharge_date": "2025-03-02",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

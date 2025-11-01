@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-62188",
+  "consultation_date": "2025-01-30",
+  "doctor_name": "Dr. Daksha Raval",
+  "notes": "Patient presented with acute abdominal pain...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

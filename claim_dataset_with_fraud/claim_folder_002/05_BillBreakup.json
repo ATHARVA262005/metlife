@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-2807",
+  "patient_id": "PID-78787",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 70410
+    },
+    {
+      "service": "Surgeon Fees (Dr. Bhavani Muni)",
+      "cost": 187760
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 117350
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 93880
+    }
+  ],
+  "total_calculated": 469400
+}

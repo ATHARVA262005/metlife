@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-20595",
+  "part_a_insured_details": {
+    "policy_id": "POL-444559",
+    "insured_name": "Chaitaly Garde",
+    "patient_name": "Chaitaly Garde",
+    "patient_dob": "1981-10-20"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-10-30",
+    "discharge_date": "2025-11-02",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

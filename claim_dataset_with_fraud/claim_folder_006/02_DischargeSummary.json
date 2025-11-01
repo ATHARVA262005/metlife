@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-31593",
+  "patient_name": "Samar Sidhu",
+  "admission_date": "2025-01-19",
+  "discharge_date": "2025-01-26",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Jyoti Chawla"
+}

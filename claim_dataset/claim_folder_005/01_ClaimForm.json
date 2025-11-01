@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-32268",
+  "part_a_insured_details": {
+    "policy_id": "POL-478416",
+    "insured_name": "Manthan Goda",
+    "patient_name": "Manthan Goda",
+    "patient_dob": "1958-01-19"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-09-09",
+    "discharge_date": "2025-09-18",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

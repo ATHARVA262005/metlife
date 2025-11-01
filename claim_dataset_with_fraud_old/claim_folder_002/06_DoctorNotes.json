@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-53449",
+  "consultation_date": "2024-12-17",
+  "doctor_name": "Dr. Eta Chahal",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

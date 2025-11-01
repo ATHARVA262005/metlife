@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-25533",
+  "part_a_insured_details": {
+    "policy_id": "POL-613629",
+    "insured_name": "Lakshit Kapoor",
+    "patient_name": "Lakshit Kapoor",
+    "patient_dob": "1973-08-11"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-10-18",
+    "discharge_date": "2025-10-24",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-29333",
+  "part_a_insured_details": {
+    "policy_id": "POL-431096",
+    "insured_name": "Nidra Tandon",
+    "patient_name": "Nidra Tandon",
+    "patient_dob": "1961-02-22"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-05-28",
+    "discharge_date": "2025-05-31",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

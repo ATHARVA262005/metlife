@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-69665",
+  "patient_name": "Ishanvi Venkatesh",
+  "admission_date": "2025-10-11",
+  "discharge_date": "2025-10-18",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Advay Sha"
+}

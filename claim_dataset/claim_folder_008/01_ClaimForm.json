@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-88557",
+  "part_a_insured_details": {
+    "policy_id": "POL-292912",
+    "insured_name": "Yatin Grewal",
+    "patient_name": "Yatin Grewal",
+    "patient_dob": "1955-12-31"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-04-08",
+    "discharge_date": "2025-04-15",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

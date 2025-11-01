@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-13810",
+  "part_a_insured_details": {
+    "policy_id": "POL-118815",
+    "insured_name": "Raghav Nanda",
+    "patient_name": "Raghav Nanda",
+    "patient_dob": "2003-05-08"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-10-25",
+    "discharge_date": "2025-11-04",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-13369",
+  "consultation_date": "2025-02-06",
+  "doctor_name": "Dr. Elijah Sunder",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-69879",
+  "part_a_insured_details": {
+    "policy_id": "POL-813567",
+    "insured_name": "Alexander Sridhar",
+    "patient_name": "Alexander Sridhar",
+    "patient_dob": "1990-09-07"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-01-09",
+    "discharge_date": "2025-01-17",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-31497",
+  "patient_name": "Kashish Sunder",
+  "admission_date": "2024-11-06",
+  "discharge_date": "2024-11-14",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. David Mukherjee"
+}

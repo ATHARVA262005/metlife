@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-84178",
+  "consultation_date": "2025-04-05",
+  "doctor_name": "Dr. Qadim Murthy",
+  "notes": "Patient with history of angina...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

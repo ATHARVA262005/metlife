@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-4434",
+  "patient_id": "PID-91140",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 62715
+    },
+    {
+      "service": "Surgeon Fees (Dr. Ekanta Setty)",
+      "cost": 167240
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 104525
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 83620
+    }
+  ],
+  "total_calculated": 418100
+}

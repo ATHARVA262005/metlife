@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-89933",
+  "part_a_insured_details": {
+    "policy_id": "POL-856515",
+    "insured_name": "Oni Bail",
+    "patient_name": "Oni Bail",
+    "patient_dob": "1957-12-07"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-04-05",
+    "discharge_date": "2025-04-08",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

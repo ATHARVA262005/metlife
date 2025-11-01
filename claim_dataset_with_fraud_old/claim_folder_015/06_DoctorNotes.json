@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-68612",
+  "consultation_date": "2025-02-28",
+  "doctor_name": "Dr. Upasna Kale",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

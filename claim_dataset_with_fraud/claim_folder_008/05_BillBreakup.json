@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-7835",
+  "patient_id": "PID-30785",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 49380
+    },
+    {
+      "service": "Surgeon Fees (Dr. Caleb Nagi)",
+      "cost": 131680
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 82300
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 65840
+    }
+  ],
+  "total_calculated": 329200
+}

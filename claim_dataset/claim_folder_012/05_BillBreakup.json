@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3412",
+  "patient_id": "PID-58367",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 65235
+    },
+    {
+      "service": "Surgeon Fees (Dr. Omaja Memon)",
+      "cost": 173960
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 108725
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 86980
+    }
+  ],
+  "total_calculated": 434900
+}

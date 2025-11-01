@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-58839",
+  "part_a_insured_details": {
+    "policy_id": "POL-532601",
+    "insured_name": "Jack Anand",
+    "patient_name": "Jack Anand",
+    "patient_dob": "2001-11-10"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-06-13",
+    "discharge_date": "2025-06-18",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

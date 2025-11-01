@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-77600",
+  "part_a_insured_details": {
+    "policy_id": "POL-306575",
+    "insured_name": "Kashish Sunder",
+    "patient_name": "Kashish Sunder",
+    "patient_dob": "1977-05-06"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2024-11-06",
+    "discharge_date": "2024-11-14",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

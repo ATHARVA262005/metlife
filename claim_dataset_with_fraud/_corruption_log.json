@@ -1,0 +1,47 @@
+[
+  {
+    "folder": "claim_folder_002",
+    "type": "name_mismatch",
+    "details": "Changed patient name from 'Jack Anand' to 'Fiyaz Cheema'"
+  },
+  {
+    "folder": "claim_folder_004",
+    "type": "amount_mismatch",
+    "details": "Inflated bill by 48945 (from 345000 to 393945)"
+  },
+  {
+    "folder": "claim_folder_005",
+    "type": "date_mismatch",
+    "details": "Changed discharge date from 2025-01-17 to 2025-01-19"
+  },
+  {
+    "folder": "claim_folder_007",
+    "type": "date_mismatch",
+    "details": "Changed discharge date from 2025-01-15 to 2025-01-17"
+  },
+  {
+    "folder": "claim_folder_009",
+    "type": "amount_mismatch",
+    "details": "Inflated bill by 37728 (from 396000 to 433728)"
+  },
+  {
+    "folder": "claim_folder_013",
+    "type": "amount_mismatch",
+    "details": "Inflated bill by 11386 (from 98600 to 109986)"
+  },
+  {
+    "folder": "claim_folder_015",
+    "type": "name_mismatch",
+    "details": "Changed patient name from 'Nimrat Acharya' to 'Kavya Natarajan'"
+  },
+  {
+    "folder": "claim_folder_017",
+    "type": "name_mismatch",
+    "details": "Changed patient name from 'Wakeeta Loke' to 'Ayaan Raja'"
+  },
+  {
+    "folder": "claim_folder_018",
+    "type": "amount_mismatch",
+    "details": "Inflated bill by 49709 (from 367200 to 416909)"
+  }
+]

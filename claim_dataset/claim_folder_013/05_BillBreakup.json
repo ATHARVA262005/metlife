@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2024-6557",
+  "patient_id": "PID-23435",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 53370
+    },
+    {
+      "service": "Surgeon Fees (Dr. Baljiwan Kurian)",
+      "cost": 142320
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 88950
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 71160
+    }
+  ],
+  "total_calculated": 355800
+}

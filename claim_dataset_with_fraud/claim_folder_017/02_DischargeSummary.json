@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-13369",
+  "patient_name": "Wakeeta Loke",
+  "admission_date": "2025-02-06",
+  "discharge_date": "2025-02-12",
+  "final_diagnosis": "Pneumonia",
+  "diagnosis_code": "J18.9",
+  "treatment_summary": "Patient admitted with high fever, cough... Successful Antibiotic Therapy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Elijah Sunder"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-31593",
+  "consultation_date": "2025-01-19",
+  "doctor_name": "Dr. Jyoti Chawla",
+  "notes": "Patient admitted with high fever, cough...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

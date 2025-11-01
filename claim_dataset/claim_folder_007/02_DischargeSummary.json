@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-28395",
+  "patient_name": "Niharika Sur",
+  "admission_date": "2025-05-10",
+  "discharge_date": "2025-05-20",
+  "final_diagnosis": "Acute Appendicitis",
+  "diagnosis_code": "K35.80",
+  "treatment_summary": "Patient presented with acute abdominal pain... Successful Laparoscopic Appendectomy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Lakshmi Shan"
+}

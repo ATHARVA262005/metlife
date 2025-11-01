@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-92435",
+  "part_a_insured_details": {
+    "policy_id": "POL-861059",
+    "insured_name": "Anmol Chaudry",
+    "patient_name": "Anmol Chaudry",
+    "patient_dob": "1998-05-20"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-03-02",
+    "discharge_date": "2025-03-06",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-64001",
+  "part_a_insured_details": {
+    "policy_id": "POL-817236",
+    "insured_name": "Max Ray",
+    "patient_name": "Max Ray",
+    "patient_dob": "1946-03-09"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-01-09",
+    "discharge_date": "2025-01-15",
+    "diagnosis": "Acute Appendicitis",
+    "procedure_performed": "Laparoscopic Appendectomy"
+  }
+}

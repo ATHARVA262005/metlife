@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-72022",
+  "part_a_insured_details": {
+    "policy_id": "POL-925138",
+    "insured_name": "Ekbal Bhasin",
+    "patient_name": "Ekbal Bhasin",
+    "patient_dob": "1976-07-02"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-05-25",
+    "discharge_date": "2025-06-01",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

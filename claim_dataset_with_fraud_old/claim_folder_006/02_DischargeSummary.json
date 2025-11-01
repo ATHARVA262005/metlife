@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-84178",
+  "patient_name": "Oni Bail",
+  "admission_date": "2025-04-05",
+  "discharge_date": "2025-04-08",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Qadim Murthy"
+}

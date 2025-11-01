@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-53352",
+  "patient_name": "Anmol Chaudry",
+  "admission_date": "2025-03-02",
+  "discharge_date": "2025-03-06",
+  "final_diagnosis": "Cataract",
+  "diagnosis_code": "H25.9",
+  "treatment_summary": "Patient with progressive vision loss, scheduled for cataract surgery... Successful Phacoemulsification performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Isha Pant"
+}

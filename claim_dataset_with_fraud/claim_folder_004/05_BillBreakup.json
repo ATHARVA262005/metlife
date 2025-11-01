@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-4616",
+  "patient_id": "PID-75700",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 51750
+    },
+    {
+      "service": "Surgeon Fees (Dr. Hema Chadha)",
+      "cost": 138000
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 86250
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 69000
+    }
+  ],
+  "total_calculated": 345000
+}

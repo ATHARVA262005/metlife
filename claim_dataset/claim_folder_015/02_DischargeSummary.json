@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-99883",
+  "patient_name": "Hemang Sankaran",
+  "admission_date": "2025-02-20",
+  "discharge_date": "2025-02-27",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Nidhi Andra"
+}

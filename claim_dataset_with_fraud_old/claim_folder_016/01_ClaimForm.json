@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-37858",
+  "part_a_insured_details": {
+    "policy_id": "POL-944690",
+    "insured_name": "Geetika Walla",
+    "patient_name": "Geetika Walla",
+    "patient_dob": "2004-09-08"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Fortis Healthcare",
+    "admission_date": "2025-08-11",
+    "discharge_date": "2025-08-21",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

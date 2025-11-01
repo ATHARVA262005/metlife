@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3145",
+  "patient_id": "PID-77519",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 55080
+    },
+    {
+      "service": "Surgeon Fees (Dr. Jacob Lad)",
+      "cost": 146880
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 91800
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 73440
+    }
+  ],
+  "total_calculated": 367200
+}

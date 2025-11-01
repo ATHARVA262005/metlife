@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-30785",
+  "consultation_date": "2025-10-30",
+  "doctor_name": "Dr. Caleb Nagi",
+  "notes": "Patient with progressive vision loss...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

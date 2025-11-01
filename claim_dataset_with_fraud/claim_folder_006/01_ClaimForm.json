@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-40955",
+  "part_a_insured_details": {
+    "policy_id": "POL-180786",
+    "insured_name": "Samar Sidhu",
+    "patient_name": "Samar Sidhu",
+    "patient_dob": "1949-05-10"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-01-19",
+    "discharge_date": "2025-01-26",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

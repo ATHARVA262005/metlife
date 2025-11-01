@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-8015",
+  "patient_id": "PID-27785",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 12690
+    },
+    {
+      "service": "Surgeon Fees (Dr. Nidhi Prabhakar)",
+      "cost": 33840
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 21150
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 16920
+    }
+  ],
+  "total_calculated": 84600
+}

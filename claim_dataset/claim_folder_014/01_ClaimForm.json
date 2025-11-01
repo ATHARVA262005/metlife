@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-32414",
+  "part_a_insured_details": {
+    "policy_id": "POL-437051",
+    "insured_name": "Eshana Dayal",
+    "patient_name": "Eshana Dayal",
+    "patient_dob": "1967-02-13"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Max Healthcare Institute",
+    "admission_date": "2025-02-21",
+    "discharge_date": "2025-03-03",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

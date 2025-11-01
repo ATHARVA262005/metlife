@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-32201",
+  "consultation_date": "2025-05-23",
+  "doctor_name": "Dr. Harish Suresh",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

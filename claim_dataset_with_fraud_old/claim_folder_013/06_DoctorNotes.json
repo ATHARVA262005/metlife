@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-89876",
+  "consultation_date": "2025-09-09",
+  "doctor_name": "Dr. Bachittar Chadha",
+  "notes": "Patient with progressive vision loss...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

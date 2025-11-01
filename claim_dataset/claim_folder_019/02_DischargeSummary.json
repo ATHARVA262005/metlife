@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-18358",
+  "patient_name": "Samesh Gill",
+  "admission_date": "2025-10-22",
+  "discharge_date": "2025-11-01",
+  "final_diagnosis": "Coronary Artery Disease",
+  "diagnosis_code": "I25.10",
+  "treatment_summary": "Patient with history of angina, underwent planned angioplasty... Successful Coronary Angioplasty performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Warda Bhargava"
+}

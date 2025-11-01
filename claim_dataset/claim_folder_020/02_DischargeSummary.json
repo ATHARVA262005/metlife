@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-27785",
+  "patient_name": "Aarav Warrior",
+  "admission_date": "2025-04-10",
+  "discharge_date": "2025-04-16",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Nidhi Prabhakar"
+}

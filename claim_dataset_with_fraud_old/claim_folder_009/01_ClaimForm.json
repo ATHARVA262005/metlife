@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-72545",
+  "part_a_insured_details": {
+    "policy_id": "POL-247184",
+    "insured_name": "Ladli Naidu",
+    "patient_name": "Ladli Naidu",
+    "patient_dob": "1982-11-18"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Fortis Healthcare",
+    "admission_date": "2025-06-06",
+    "discharge_date": "2025-06-10",
+    "diagnosis": "Cataract",
+    "procedure_performed": "Phacoemulsification"
+  }
+}

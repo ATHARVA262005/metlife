@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-31749",
+  "patient_name": "Ekbal Bhasin",
+  "admission_date": "2025-05-25",
+  "discharge_date": "2025-06-01",
+  "final_diagnosis": "Fractured Tibia",
+  "diagnosis_code": "S82.2",
+  "treatment_summary": "Patient sustained trauma, X-ray confirmed displaced tibial fracture... Successful Surgical Fixation (ORIF) performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Pahal Chakraborty"
+}

@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-1168",
+  "patient_id": "PID-36218",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 38970
+    },
+    {
+      "service": "Surgeon Fees (Dr. Orinder Lall)",
+      "cost": 103920
+    },
+    {
+      "service": "OT Charges (Phacoemulsification)",
+      "cost": 64950
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 51960
+    }
+  ],
+  "total_calculated": 259800
+}

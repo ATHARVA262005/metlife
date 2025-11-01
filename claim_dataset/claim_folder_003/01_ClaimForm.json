@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-28764",
+  "part_a_insured_details": {
+    "policy_id": "POL-747110",
+    "insured_name": "Atharv Ramanathan",
+    "patient_name": "Atharv Ramanathan",
+    "patient_dob": "1956-01-15"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Manipal Hospital",
+    "admission_date": "2025-05-16",
+    "discharge_date": "2025-05-24",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}

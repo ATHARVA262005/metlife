@@ -1,0 +1,10 @@
+{
+  "patient_id": "PID-91140",
+  "patient_name": "Alexander Sridhar",
+  "admission_date": "2025-01-09",
+  "discharge_date": "2025-01-17",
+  "final_diagnosis": "Acute Appendicitis",
+  "diagnosis_code": "K35.80",
+  "treatment_summary": "Patient presented with acute abdominal pain... Successful Laparoscopic Appendectomy performed. Post-operative recovery was uneventful.",
+  "doctor_in_charge": "Dr. Ekanta Setty"
+}

@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-6298",
+  "patient_id": "PID-53104",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 35565
+    },
+    {
+      "service": "Surgeon Fees (Dr. Yashawini Nagarajan)",
+      "cost": 94840
+    },
+    {
+      "service": "OT Charges (Laparoscopic Appendectomy)",
+      "cost": 59275
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 47420
+    }
+  ],
+  "total_calculated": 237100
+}

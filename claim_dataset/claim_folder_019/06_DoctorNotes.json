@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID-18358",
+  "consultation_date": "2025-10-22",
+  "doctor_name": "Dr. Warda Bhargava",
+  "notes": "Patient with history of angina, underwent planned angioplasty...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Antibiotics (Pre-Op)",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

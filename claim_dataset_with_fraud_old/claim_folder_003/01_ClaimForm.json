@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-40346",
+  "part_a_insured_details": {
+    "policy_id": "POL-851282",
+    "insured_name": "Gaurav Jani",
+    "patient_name": "Gaurav Jani",
+    "patient_dob": "1989-03-16"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Global City Medical Center",
+    "admission_date": "2025-10-23",
+    "discharge_date": "2025-10-30",
+    "diagnosis": "Fractured Tibia",
+    "procedure_performed": "Surgical Fixation (ORIF)"
+  }
+}

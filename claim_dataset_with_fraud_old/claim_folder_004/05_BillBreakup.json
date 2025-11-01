@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3813",
+  "patient_id": "PID-69665",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 26220
+    },
+    {
+      "service": "Surgeon Fees (Dr. Advay Sha)",
+      "cost": 69920
+    },
+    {
+      "service": "OT Charges (Antibiotic Therapy)",
+      "cost": 43700
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 34960
+    }
+  ],
+  "total_calculated": 174800
+}

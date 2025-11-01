@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2024-2918",
+  "patient_id": "PID-31497",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 41895
+    },
+    {
+      "service": "Surgeon Fees (Dr. David Mukherjee)",
+      "cost": 111720
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 69825
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 55860
+    }
+  ],
+  "total_calculated": 279300
+}

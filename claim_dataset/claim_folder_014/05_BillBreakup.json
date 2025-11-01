@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-3021",
+  "patient_id": "PID-30672",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 44895
+    },
+    {
+      "service": "Surgeon Fees (Dr. Rajeshri Narula)",
+      "cost": 119720
+    },
+    {
+      "service": "OT Charges (Coronary Angioplasty)",
+      "cost": 74825
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 59860
+    }
+  ],
+  "total_calculated": 299300
+}

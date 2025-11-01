@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-21778",
+  "part_a_insured_details": {
+    "policy_id": "POL-934213",
+    "insured_name": "Rehaan Ramaswamy",
+    "patient_name": "Rehaan Ramaswamy",
+    "patient_dob": "1997-10-19"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Apollo Hospital",
+    "admission_date": "2025-04-01",
+    "discharge_date": "2025-04-10",
+    "diagnosis": "Coronary Artery Disease",
+    "procedure_performed": "Coronary Angioplasty"
+  }
+}

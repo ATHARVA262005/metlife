@@ -1,0 +1,16 @@
+{
+  "patient_id": "PID-37175",
+  "consultation_date": "2025-02-21",
+  "doctor_name": "Dr. Mason Sagar",
+  "notes": "Patient sustained trauma...",
+  "prescription": [
+    {
+      "drug": "IV Fluids",
+      "dosage": "STAT"
+    },
+    {
+      "drug": "Painkiller (SOS)",
+      "dosage": "SOS"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2024-4549",
+  "patient_id": "PID-96932",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 30885
+    },
+    {
+      "service": "Surgeon Fees (Dr. Shaurya Swaminathan)",
+      "cost": 82360
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 51475
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 41180
+    }
+  ],
+  "total_calculated": 205900
+}

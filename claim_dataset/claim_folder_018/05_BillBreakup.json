@@ -1,0 +1,23 @@
+{
+  "bill_number": "HB-2025-9957",
+  "patient_id": "PID-94625",
+  "line_items": [
+    {
+      "service": "Room Rent",
+      "cost": 52320
+    },
+    {
+      "service": "Surgeon Fees (Dr. Eshana Parsa)",
+      "cost": 139520
+    },
+    {
+      "service": "OT Charges (Surgical Fixation (ORIF))",
+      "cost": 87200
+    },
+    {
+      "service": "Medicines & Consumables",
+      "cost": 69760
+    }
+  ],
+  "total_calculated": 348800
+}

@@ -1,0 +1,16 @@
+{
+  "claim_id": "CL-18832",
+  "part_a_insured_details": {
+    "policy_id": "POL-541650",
+    "insured_name": "Nimrat Acharya",
+    "patient_name": "Nimrat Acharya",
+    "patient_dob": "1980-07-10"
+  },
+  "part_b_hospital_details": {
+    "hospital_name": "Sunshine General Hospital",
+    "admission_date": "2025-01-12",
+    "discharge_date": "2025-01-21",
+    "diagnosis": "Pneumonia",
+    "procedure_performed": "Antibiotic Therapy"
+  }
+}
