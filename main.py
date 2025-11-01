@@ -489,7 +489,11 @@ if __name__ == "__main__":
     This allows you to run the API directly using `python main.py`.
     It will start the Uvicorn server on http://127.0.0.1:8000.
     """
-    print("Starting Claim Validation API server on http://127.0.0.1:8000")
-    print("Go to http://127.0.0.1:8000/docs for the API interface.")
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    # Use PORT environment variable for deployment (Render, Heroku, etc.)
+    port = int(os.environ.get("PORT", 8000))
+    host = "0.0.0.0" if os.environ.get("PORT") else "127.0.0.1"
+    
+    print(f"Starting Claim Validation API server on http://{host}:{port}")
+    print(f"Go to http://{host}:{port}/docs for the API interface.")
+    uvicorn.run(app, host=host, port=port)
 

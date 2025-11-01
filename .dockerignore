@@ -1,0 +1,61 @@
+# Virtual environments
+hac_env/
+.venv/
+env/
+venv/
+ENV/
+*.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation (optional - include if you want)
+*.md
+!README.md
+
+# Temporary files
+temp/
+*.log
+*.tmp
+*.bak
+
+# Test files (optional)
+test_*.py
+*_test.py
+
+# Large libraries (Tesseract is installed in Docker)
+libraries/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Azure files
+.azure/
+
+# Dataset backups
+claim_dataset_with_fraud_old/
